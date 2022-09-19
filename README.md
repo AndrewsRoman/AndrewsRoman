@@ -1,7 +1,7 @@
 <div align="center">
 
   ### Hello World!! 👋
-   🌱 Estudando linguagem C.
+   🌱 Estudando linguagem C
   | 📚 Aluno na Universidade Federal do Paraná
 | 💻 Cursando Bacharelado em Ciência da Computação 
 
